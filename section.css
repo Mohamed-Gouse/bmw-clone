@@ -1,0 +1,200 @@
+.section-1{
+    width: 100%;
+    height: 400px;
+    position: relative;
+    color: black;
+}
+.section-1-1{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+}
+.para-1{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    opacity: 0.6;
+}
+.para{
+    font-size: 56px;
+    font-weight: normal;
+    opacity: 0.8;
+}
+.section-1-2{
+    width: 100%;
+    height: 75%;
+    justify-content: center;
+    display: flex;
+}
+.more-bmw{
+    width: 19%;
+    height: 90%;
+    float: left;
+    display: grid;
+    margin: 0 5%;
+}
+.img-div img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    overflow-clip-margin: content-box;
+}
+.more-bmw p{
+    font-size: 22px;
+    text-align: center;
+    font-stretch: condensed;
+    padding-bottom: 25px;
+}
+.more-bmw button{
+    font-weight: 700;
+    font-size: 16px;
+    background-color: transparent;
+    border: solid 1px;
+    border-color: black;
+    border-radius: 5px;
+    height: 50px;
+    cursor: pointer;
+    transition: border 0.03s ease;
+}
+.more-bmw button:hover{
+    border: solid 3px;
+}
+.section-2{
+    width: 100%;
+    height: 500px;
+    color: white;
+    background-image: url('IMG/DI21_000048047_3to1.webp');
+    background-size: cover;
+    background-position: center;
+}
+.section-2-1{
+    width: 100%;
+    height: 500px;
+    background-image:  linear-gradient(to right,rgba(0, 0, 0, 0.605),rgba(255, 255, 255, 0));
+}
+.section-2-1 p{
+    width: 45%;
+    padding-top: 140px;
+    padding-left: 100px;
+    font-size: 52px;
+    font-family: system-ui;
+}
+.section-2-1 button{
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 5px;
+    padding: 15px 100px;
+    font-size: 16px;
+    font-weight: 700;
+    background: transparent;
+    color: white;
+    border-color: white;
+    border: solid 1px;
+    cursor: pointer;
+    transition: all 0.05s;
+}
+.section-2-1 button:hover{
+    border: solid 2px;
+}
+.section-3{
+    width: 100%;
+    height: 450px;
+    padding:40px 95px;
+    display: flex;
+    justify-content: center;
+}
+.img-sec-3{
+    width: 50%;
+    height: 100%;
+}
+.img-sec-3 img{
+    width: 100%;
+    height: 100%;
+}
+.para-sec-3{
+    width: 50%;
+    height: 100%;
+    padding-left: 2%;
+    display: grid;
+}
+.txt-1-s3{
+    padding-top: 10%;
+    font-size: 16px;
+    font-weight: 700;
+    opacity: 0.7;
+}
+.txt-2-s3{
+    font-size: 56px;
+}
+.txt-3-s3{
+    opacity: 0.7;
+}
+.para-sec-3 button{
+    margin-left: 2%;
+    width: 30%;
+    font-weight: 700;
+    font-size: 16px;
+    background-color: transparent;
+    border: solid 1px;
+    border-color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: border 0.03s ease;
+}
+.para-sec-3 button:hover{
+    border: solid 2px;
+}
+
+
+.sec-4{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(248, 248, 248);
+    
+}
+.sec-4-1{
+    width: 90%;
+    height: 70%;
+    justify-content: center;
+    margin: 0 5%;
+    padding-top: 5%;
+}
+.sec-4-1-1{
+    width: 25%;
+    height: 100%;
+    font-size: 10px;
+    float: left;
+}
+.sec-4-1-1 li{
+    padding: 5px 25px;
+    list-style: none;
+    letter-spacing: 1px;
+}
+.link{
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    opacity: 0.7;
+    width: max-content;
+}
+.link:hover{
+    opacity: 1;
+}
+
+.sec-4-2{
+    width: 90%;
+    height: 26%;
+    margin: 0 5%;
+    display: flex;
+}
+.sec-4-2 img{
+    width :20px;
+    height: 20px;
+    margin-top: 70px;
+    margin-left: 20px;
+    opacity: 0.7;
+    cursor: pointer;
+}
+.sec-4-2 img:hover{
+    opacity: 1;
+}

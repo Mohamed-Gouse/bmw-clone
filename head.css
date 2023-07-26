@@ -1,0 +1,118 @@
+.main-head{
+    width: 100%;
+    height: 750px;
+    color: white;
+    background-image: url('IMG/cq5dam.resized.img.1680.large.time1670561077564.png');
+    background-size: cover;
+    background-position: center;
+}
+.main-nav{
+    width: 100%;
+    padding-left: 80px;
+    padding-right: 80px;
+    height: 128px;  
+}
+.nav-top{
+    width: 100%;
+    height: 80px;
+    border-bottom: solid 1px;
+    margin-left: 10px;
+    margin-right: 20px;
+    display: flex;
+}
+.main-head-1{
+    width: 50%;
+    height:80px;
+    line-height: 80px;  
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+    margin-bottom: 10px;
+    float: left;
+}
+.logo{
+    min-width: 98%;
+    padding-top: 16px;
+    padding-right: 20px;
+    
+}
+.main-head-1 ul li{
+    display: inline-block;
+    font-weight: 700;
+    margin: 0 10px;
+}
+.main-head-1 ul li:hover{
+    border-bottom: solid 3px;
+    cursor: pointer;
+}
+.main-head-2{
+    width: 50%;
+    height:80px;
+    line-height: 80px;  
+    font-size: 16px;
+    display: flex;
+    margin-bottom: 10px;
+    float: left;
+    justify-content: flex-end;
+}
+.main-head-2 i{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 80px;
+    line-height: 80px;
+    width: 50px;
+    height: 50px;
+}
+.main-head-2 i:hover{
+    border-bottom: solid 3px;
+    cursor: pointer;
+}
+.nav-bottom{
+    width: 100%;
+    height: 48px;
+    margin-left: 10px;
+    margin-right: 20px;
+    display: flex;
+    line-height: 48px;
+    font-size: 16px;
+}
+.main-sub-body{
+    width: 100%;
+    height: 622px;
+    padding-top: 12%;
+    padding-left: 7%;
+}
+.main-sub-body .txt-2{
+    padding-left: 2px;
+    font-size: 186px;
+    margin-top: -58px;
+    font-family: system-ui;
+}
+.main-sub-body .txt-3{
+    font-size: 28px;
+    margin-top: -28px;
+}
+.main-sub-body .button-1{
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(5, 105, 193);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: transparent;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.main-sub-body .button-2{
+    width: 200px;
+    padding: 15px;
+    background-color: transparent;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: white;
+    margin-top: 20px;
+    cursor: pointer;
+}
